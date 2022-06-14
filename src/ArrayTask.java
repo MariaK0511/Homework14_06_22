@@ -30,14 +30,5 @@ public class ArrayTask {
                 System.out.println();
             }
         }
-//        StringBuilder s = new StringBuilder();
-//        for (int i = 0; i < matrix3.length; i++) {
-//            for (int j = 0; j < matrix3.length; j++) {
-//                s.append(matrix3[i][j]).append("  ");
-//            }
-//            s.append("\n");
-//        }
-//        byte[] bytes = s.toString().getBytes();
-
     }
 }
