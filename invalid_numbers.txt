@@ -1,0 +1,5 @@
+share459320FJ5J - Строка не начинается с docnum или contract
+docnum875DVY231ds - Строка не имеет длину 15 
+shareT5JD820FF9 - Строка не начинается с docnum или contract
+columnT53FN6KD3 - Строка не начинается с docnum или contract
+column785DJR4N6d77d - Строка не имеет длину 15 
